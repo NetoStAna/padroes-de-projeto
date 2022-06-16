@@ -10,6 +10,10 @@ Repositório contendo estudos de padrões de projeto desenvolvidos em java.
 
 Padrão desenvolvido para garantir que a classe singleton possua uma, e apenas uma, instância em toda a aplicação. Deste modo, toda instanciação da classe se refere ao mesmo objeto.
 
+### [Builder](builder/README.md)
+
+Padrão desenvolvido para separar a construção de um objeto, especialmente objetos complexos, de sua representação. Deste modo, diferentes representações podem ser criadas a partir de um mesmo construtor.
+
 
 
 ## Referência

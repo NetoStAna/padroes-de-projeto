@@ -2,8 +2,6 @@
 
 Padrão desenvolvido para garantir que a classe singleton possua uma, e apenas uma, instância em toda a aplicação. Deste modo, toda instanciação da classe se refere ao mesmo objeto.
 
-
-
 ```mermaid
 classDiagram
 	class Aplicacao {
