@@ -14,6 +14,10 @@ Padrão desenvolvido para garantir que a classe singleton possua uma, e apenas u
 
 Padrão desenvolvido para separar a construção de um objeto, especialmente objetos complexos, de sua representação. Deste modo, diferentes representações podem ser criadas a partir de um mesmo construtor.
 
+### [Prototype](prototype/README.md)
+
+Padrão desenvolvido para permitir a criação de objetos complexos através da cópia de outra instância do mesmo objeto. Deste modo, o novo objeto criado pode alterar apenas as partes necessárias.
+
 
 
 ## Referência
