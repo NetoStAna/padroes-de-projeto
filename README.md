@@ -18,6 +18,10 @@ Padrão desenvolvido para separar a construção de um objeto, especialmente obj
 
 Padrão desenvolvido para permitir a criação de objetos complexos através da cópia de outra instância do mesmo objeto. Deste modo, o novo objeto criado pode alterar apenas as partes necessárias.
 
+### [Factory](factory/README.md)
+
+Padrão desenvolvido para definir uma interface de criação de um objeto. Deste modo, a instanciação do objeto fica a cargo das subclasses.
+
 
 
 ## Referência
